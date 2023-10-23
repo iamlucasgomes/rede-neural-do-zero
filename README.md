@@ -23,7 +23,7 @@
 - Use o comando: `git@github.com:iamlucasgomes/rede-neural-do-zero.git`
 - Entre na pasta do repositório que você acabou de clonar:
 
-- `cd rede-neural-do-zero`
+  - `cd rede-neural-do-zero`
 
 2. Crie o ambiente virtual para o projeto
 
